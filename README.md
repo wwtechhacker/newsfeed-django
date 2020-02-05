@@ -30,9 +30,3 @@ taken to completion.
 A content management system would be ideal, but even integrating an open-source
 one increases scope too much.
 
-### Credit
-
-I want to specifically acknowledge Thinkster and their 
-[realworld.io](https://github.com/gothinkster/realworld) project. It provided 
-an excellent path on how to create and connect the components of a news or blog
-website.
